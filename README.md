@@ -165,7 +165,10 @@ The side-view presentation takes inspiration from opposing armies and readable
 unit roles in [Age of War](https://www.maxgames.com/guides/age-of-war-2.html).
 No Age of War artwork or source code is included.
 
-The project direction, design goals, and final choices are the author's. AI was
+For the original SMU assignment, I wrote and debugged the MonsterArena C++ 
+file in CLion; Codex assisted with testing and verification.
+
+The project direction, design goals, and final choices are the mine. AI was
 used to assist implementation, parameter exploration, debugging, testing, and
 documentation. The three monster illustrations are AI-generated prototype
 assets. Animation and combat effects are implemented in Godot; the artwork is
