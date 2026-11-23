@@ -9,7 +9,7 @@ effects, and an action journal make each result easy to follow.
 
 ## Project background
 
-- **September 2026:** original SMU programming assignment in C++17.
+- **September 2026:** original SMU programming assignment in C++.
 - **November 2026:** combat logic and numerical balance refined, then extended
   into the Godot visual prototype presented here.
 
